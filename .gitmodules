@@ -1,0 +1,6 @@
+[submodule "lib/CAN"]
+	path = lib/CAN
+	url = https://github.com/adamczykpiotr/STM32duino_CAN_Library
+[submodule "lib/MAX5160"]
+	path = lib/MAX5160
+	url = https://github.com/adamczykpiotr/MAX5160
